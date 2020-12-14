@@ -85,7 +85,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/kantoortuin-boven.json#start-stairs"
+                 "value":"\/UT-workadventure\/kantoortuin-boven.json#start-stairs"
                 }],
          "type":"tilelayer",
          "visible":true,
